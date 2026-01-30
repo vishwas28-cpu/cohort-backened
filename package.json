@@ -1,0 +1,24 @@
+{
+  "name": "cohort-backened",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwas28-cpu/cohort-backened.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vishwas28-cpu/cohort-backened/issues"
+  },
+  "homepage": "https://github.com/vishwas28-cpu/cohort-backened#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
