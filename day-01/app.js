@@ -1,4 +1,4 @@
-console.log("hello world");
+const catMe = require("cat-me")
 
 
-
+console.log(catMe());
